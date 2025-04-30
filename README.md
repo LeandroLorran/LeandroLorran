@@ -6,24 +6,30 @@ Apaixonado por tecnologia, criação de games e o poder da programação para tr
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroLorran&show_icons=true&theme=transparent&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLorran&layout=compact&langs_count=7&theme=transparent" height="180em"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroLorran&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLorran&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<h2 align="center">🚀 Tecnologias que uso</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" title="Unity"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+<h2 align="left">🚀 Tecnologias que uso</h2>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </p>
 
-<h2 align="center">📱 Me siga nas redes abaixo!</h2>
-
-<p align="center">
+<h2 align="left">📱 Me siga nas redes abaixo!</h2>
+<p align="left">
   <a href="https://www.instagram.com/leandrolorranb/" target="_blank">
     <img src="https://img.shields.io/badge/-INSTAGRAM-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -35,7 +41,3 @@ Apaixonado por tecnologia, criação de games e o poder da programação para tr
   </a>
 </p>
 
-<!-- Animação opcional -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeandroLorran/LeandroLorran/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
